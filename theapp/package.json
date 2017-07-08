@@ -33,10 +33,17 @@
     "ember-engines": "^0.5.8",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
+    "ember-lodash-shim": "^2.0.5",
+    "ember-redux": "2.9.1",
+    "ember-redux-shim": "^1.1.2",
+    "ember-redux-thunk-shim": "^1.1.2",
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.14.0",
+    "ember-symbol-observable": "^0.1.2",
     "ember-welcome-page": "^3.0.0",
-    "loader.js": "^4.2.3"
+    "loader.js": "^4.2.3",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0"
   },
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
