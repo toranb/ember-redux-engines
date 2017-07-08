@@ -44,7 +44,7 @@
   "private": true,
   "ember-addon": {
     "paths": [
-      "lib/theengine"
+      "../theengine"
     ]
   }
 }
