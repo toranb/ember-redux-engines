@@ -34,7 +34,7 @@
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
     "ember-lodash-shim": "^2.0.5",
-    "ember-redux": "2.9.1",
+    "ember-redux": "^2.10.0",
     "ember-redux-shim": "^1.1.2",
     "ember-redux-thunk-shim": "^1.1.2",
     "ember-resolver": "^4.0.0",
