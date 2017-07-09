@@ -15,7 +15,7 @@ const dispatchToActions = dispatch => {
 };
 
 const Component = Ember.Component.extend({
-  layout: hbs`{{name}} <button onclick={{action "rename"}}>APP</button>`
+  layout: hbs`<span class="appfoo">{{name}}</span> <button onclick={{action "rename"}}>APP</button>`
 });
 
 export default connect(stateToComputed, dispatchToActions)(Component);
